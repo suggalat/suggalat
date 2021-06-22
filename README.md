@@ -1,5 +1,5 @@
 <h1 align="center">Hey, This is Sai Teja Suggala</h1>
-<h3 align="center">A tech enthusiast, pursuing Btech(Hons) at IIT Bhilai. I am passionate to work on projects of various technologies, being diverse in various fields of technology I have good experience in Web/Mobile Application Development, UI/UX, Internet of Things (IoT), Wireless Communications and Computer Networks.</h3>
+<h3 align="center">A tech enthusiast, pursuing Btech(Hons) at IIT Bhilai. I am passionate to work on projects of various technologies, being diverse in various fields of technology, I have good experience in Web/Mobile Application Development, UI/UX, Internet of Things (IoT), Wireless Communications and Computer Networks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suggalat&label=Profile%20views&color=0e75b6&style=flat" alt="suggalat" /> </p>
 
