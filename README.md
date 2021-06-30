@@ -12,7 +12,7 @@
 
 <h3 align="left">Softwares and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> 4
+    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> 
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="arduino" width="40" height="40" /> </a> 
     
     <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a> 
