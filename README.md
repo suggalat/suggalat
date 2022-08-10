@@ -1,5 +1,5 @@
-<h1 align="center">H!, This is Sai Teja Suggala</h1>
-<h3 align="center">A tech enthusiast, pursuing Btech(Hons) at IIT Bhilai. I am passionate to work on projects of various
+<h1 align="center">H!, This is Sai Teja </h1>
+<h3 align="center">A tech enthusiast, pursuing Btech(Hons) at IIT Bhilai. I am passionate to work on projects in various
     technologies, being diverse in various fields of technology, I have good experience in Web/Mobile Application
     Development, UI/UX, Internet of Things (IoT), Wireless Communications and Computer Networks. You can ping me to collaborate.
 </h3>
