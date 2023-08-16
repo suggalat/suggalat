@@ -1,7 +1,5 @@
 <h1 align="center">H!, This is Sai Teja </h1>
-<h3 align="center">A tech enthusiast, pursuing Btech(Hons) at IIT Bhilai. I am passionate to work on projects in various
-    technologies, being diverse in various fields of technology, I have good experience in Web/Mobile Application
-    Development, UI/UX, Internet of Things (IoT), Wireless Communications and Computer Networks. You can ping me to collaborate.
+<p>- H! I am Sai Teja, a passionate tech enthusiast with a love for exploring diverse technologies. </p><p>- My expertise spans across software development, Internet of Things, wireless communication, and various aspects of computer networks. </p><p>- I take pride in my recent publications, consisting of two papers in the domains of wireless communication and computer networks. </p><p>- Through personal projects, driven by problem-solving, I have continuously honed my technical skills. </p><p>-  Additionally, I excel as a team player, possessing a strong understanding of agile methodologies.</p>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suggalat&label=Profile%20views&color=0e75b6&style=flat"
