@@ -43,7 +43,7 @@
 <p align="left">
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="120" height="40" /></a>   
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>   
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://logonoid.com/images/postgresql-logo.png" alt="postgres" width="40" height="40" /></a>  
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgres" width="40" height="40" /></a>  
 </p>
 <h3 align="left">Payments</h3> 
 <p align="left">
