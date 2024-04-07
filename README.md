@@ -42,7 +42,7 @@
 </p>
 <h3 align="left">Payments</h3> 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Square-logo-black.jpeg/1200px-Square-logo-black.jpeg" alt="square" width="60" height="60" /></a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Square-logo-black.jpeg/1200px-Square-logo-black.jpeg](https://1000logos.net/wp-content/uploads/2021/11/Square-logo.png)" alt="square" width="60" height="60" /></a> 
 </p>
  <h3 align="left">Charting Libraries</h3>
  <p align="left">    
