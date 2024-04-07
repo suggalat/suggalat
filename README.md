@@ -38,21 +38,25 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> 
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="react" width="40" height="40" /> </a> 
     <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>     
+</p>
+<h3 align="left">Databases</h3> 
+<p align="left">
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://logonoid.com/images/postgresql-logo.png" alt="postgres" width="40" height="40" /></a>   
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="40" height="40" /></a>   
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>   
 </p>
 <h3 align="left">Payments</h3> 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/11/Square-logo.png" alt="square" width="70" height="40" /></a> 
+    <a href="https://squareup.com/us/en" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/11/Square-logo.png" alt="square" width="70" height="40" /></a> 
 </p>
  <h3 align="left">Charting Libraries</h3>
  <p align="left">    
     <a href="https://plotly.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="Plotlyjs" width="40" height="40" /></a> 
     <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" /></a> 
     <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a> 
-<!--     <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" /></a>      -->
  </p>
 <h3>UI/UX</h3>
 <p align="left">
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> 
+    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlJoRg8Tf4a99d2bTST8cnV7J7uQGVhgMoVcQ6cKpLA&s" alt="xd" width="40" height="40" /> </a> 
 </p>
