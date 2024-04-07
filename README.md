@@ -40,6 +40,10 @@
     <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>     
 </p>
+<h3 align="left">Payments</h3> 
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Square-logo-black.jpeg/1200px-Square-logo-black.jpeg" alt="square" width="40" height="40" /></a> 
+</p>
  <h3 align="left">Charting Libraries</h3>
  <p align="left">    
     <a href="https://plotly.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="Plotlyjs" width="40" height="40" /></a> 
