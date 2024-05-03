@@ -1,5 +1,5 @@
 
-<p>- <strong>H! I am Sai Teja</strong>, a passionate tech enthusiast with a love for exploring diverse technologies. </p><p>- My expertise spans across software development, Internet of Things, wireless communication, and various aspects of computer networks. </p><p>- I take pride in my recent publications, consisting of two papers in the domains of wireless communication and computer networks. </p><p>- Through personal projects, driven by problem-solving, I have continuously honed my technical skills. </p><p>-  Additionally, I excel as a team player, possessing a strong understanding of agile methodologies.</p>
+<p>- <strong>H! I am Sai Teja</strong>, a passionate tech enthusiast with a love for exploring diverse technologies. </p><p>- My expertise spans across software development, Internet of Things, wireless communication, and various aspects of computer networks. </p><p>- Published 3 papers in the domains of wireless communication and computer networks. </p><p>- Through personal projects, driven by problem-solving, I have continuously honed my technical skills. </p><p>-  Additionally, I excel as a team player, possessing a strong understanding of agile methodologies.</p>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suggalat&label=Profile%20views&color=0e75b6&style=flat"
